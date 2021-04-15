@@ -1,4 +1,6 @@
-## Some Awesome and Simple CVE
+# CVE
+
+Some Awesome and Simple CVE
 
 PUBLIC
 
@@ -7,9 +9,8 @@ PUBLIC
 
 RESERVED
 
-- D-Link Stack Overflow
-- D-Link Escalation
-- ZTE A Series of Vulnerabilities
+- D-Link Stack Overflow & D-Link Escalation
+- ZTE A Series of Vulnerabilities, Such as Integer Overflow
 - Android
 - Working...
 
