@@ -4,7 +4,7 @@ Some Awesome and Simple CVE
 
 PUBLIC
 
-- TP-Link Heap Overflow (CVE-2021-29302)
+- TP-Link Stack Overflow (CVE-2021-29302)
 - FFmpeg Stack Overflow (CVE-2021-30123)
 
 RESERVED
