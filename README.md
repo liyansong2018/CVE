@@ -26,3 +26,8 @@ CVE-2021-37123 >> Authentication vulnerability in Hero-CT060 from Huawei<br />
 CVE-2022-45874 <br />
 CVE-2022-39012 <br />
 CVE-2022-44564 <br />
+
+----2023---- <br />
+CVE-2023-1003 >> Typeora <br />
+CVE-2023-1004 <br />
+CVE-2023-1005 <br />
